@@ -1,0 +1,23 @@
+cloudfunction deploy  :  firebase deploy --only functions
+specific function deploy : firebase deply --only functions:token
+
+site hosting : ng build --aot & firebase deploy --only hosting
+
+local run : ng serve -aot
+
+
+linked accounts : snehalshah3214@gmail.com / lanetteam1
+gmail : snehalshahdev@gmail.com / s2EXcqUe
+
+-> greet client in morning & mentioned what you are going to today.
+-> every 3 hours write current progress & mentioned if you have any difficulty.
+-> as soon as you complete task raise pull requst (check code difference) and submit to client and ask for next task.
+-> be sure before leave for day update him and if you don't have much task left ask task for next day. (you should start this process 
+before 30 minutes of your leave).
+
+
+
+github: Snehal Shah
+
+
+

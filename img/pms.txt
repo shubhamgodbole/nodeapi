@@ -1,0 +1,47 @@
+ Ticket Management System (TMS)
+
+Introduction 
+
+- This document specifies the SRS for the Ticket Management System (TMS). 
+- It describes scope of the system, both functional and non-functional requirements for
+  the software, design constraints and system interfaces.
+- Web based ticket management systems are designed to manage and store project information that are used in web-based applications.
+
+Project Description
+
+- This project will containts various small parts like,
+	- editing existing & creating new project, task, employee
+	- upload and download files
+	- task/ticket assignment
+	- task/ticket  status board
+	- login/ registration
+	- invite user etc
+
+TMS offers the following features:
+	- Tickets can be assigned to users (and users can view all tickets assigned to or assigned by them).
+	- A Ticket supports various statuses such as:
+		- New
+		- In Progress
+		- Ready to test
+		- To review
+		- Complete
+	- A Ticket supports various priorites such as
+		- Heigh
+		- low
+		- medium
+
+
+Time Duration
+
+Database Design : 1 day
+API Creation 	: 2 days
+Codding & Design : 2 days
+Testing 	: 1 day
+
+
+
+
+
+
+
+
